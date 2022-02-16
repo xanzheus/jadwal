@@ -8,7 +8,7 @@ const jadwal = [
     mapel: [
       "PAZW",
       "EKFT",
-      "null",
+      "",
       "",
     ],
   },
@@ -28,6 +28,10 @@ const jadwal = [
   {
     hari: "Jum'at",
     mapel: ["B.INGGRIS", "PPKT", "SUNDA", "PAZW"],
+  },
+  {
+    hari: "Sabtu",
+    mapel: ["Libur ya ges ya", "Libur ya ges ya", "", ""],
   },
 ];
 
