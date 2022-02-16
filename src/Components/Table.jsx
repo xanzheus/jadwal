@@ -4,7 +4,7 @@ import data, { columnRemap } from "../Misc/data";
 const Table = ({ currentDayIndex, nextDay }) => (
   <>
     <div>
-      <h1>Jadwal Pelajaran Kelas XI KT1</h1>
+      <h1 className={styles.center}>Jadwal Pelajaran Kelas XI KT1</h1>
     </div>
     <div className={styles.scrollableHorizontal}>
       <table className={`primary ${styles.table}`}>
