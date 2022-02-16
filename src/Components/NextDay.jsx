@@ -10,7 +10,7 @@ function NextDay({ nextDay }) {
     <div className={styles.nextDay}>
       <h3>Mata Pelajaran Selanjutnya</h3>
       <p>
-        Hari Belajar Selanjutnya adalah hari <b>{next().hari}</b>
+        Hari belajar berikutnya adalah hari <b>{next().hari}</b>
       </p>
       <p>
         Mapel:{" "}
