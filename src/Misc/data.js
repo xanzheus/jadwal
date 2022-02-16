@@ -1,7 +1,7 @@
 const jadwal = [
   {
     hari: "Senin",
-    mapel: ["MTK", "PJOK", "PABP", "null"],
+    mapel: ["MTK", "PJOK", "PABP", ""],
   },
   {
     hari: "Selasa",
@@ -9,12 +9,12 @@ const jadwal = [
       "PAZW",
       "EKFT",
       "null",
-      "null",
+      "",
     ],
   },
   {
     hari: "Rabu",
-    mapel: ["PKK", "BK", "PPKT", "null"],
+    mapel: ["PKK", "BK", "PPKT", ""],
   },
   {
     hari: "Kamis",
