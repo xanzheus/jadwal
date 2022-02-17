@@ -31,11 +31,11 @@ const jadwal = [
   },
   {
     hari: "Sabtu",
-    mapel: ["LIBUR", "", "", ""],
+    mapel: ["LIBUR", "ya", "ges", "ya"],
   },
   {
     hari: "Minggu",
-    mapel: ["LIBUR", "", "", ""],
+    mapel: ["LIBUR", "ya", "ges", "ya"],
   },
 ];
 
