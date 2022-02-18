@@ -20,9 +20,6 @@ function NextDay({ nextDay }) {
           .join(", ")}
         .
       </p>
-      <p>
-      Absen: https://forms.gle/Zjpbpte2WVrBskNx8
-      </p>
     </div>
   );
 }
