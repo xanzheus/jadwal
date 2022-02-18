@@ -19,7 +19,9 @@ function NextDay({ nextDay }) {
           .filter((x) => x !== null)
           .join(", ")}
         .
-        Absen: https://forms.gle/Zjpbpte2WVrBskNx8
+      </p>
+      <p>
+      Absen: https://forms.gle/Zjpbpte2WVrBskNx8
       </p>
     </div>
   );
