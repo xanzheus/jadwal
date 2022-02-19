@@ -40,10 +40,10 @@ const jadwal = [
 ];
 
 <Footer>
-      <Link css={{ marginRight: '.5rem' }} href="https://api-harilibur.vercel.app/" title="Link to website">
+      <Link href="https://api-harilibur.vercel.app/" title="Link to website">
         Sumber data
       </Link>
-      <Link css={{ marginRight: '.5rem' }} href="https://national-day.vercel.app" title="Github repository">
+      <Link href="https://national-day.vercel.app" title="Github repository">
         Kontribusi
       </Link>
       <Link href="https://instagram.com/itspapoy" title="Github repository">
