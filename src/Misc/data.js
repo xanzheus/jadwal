@@ -39,18 +39,6 @@ const jadwal = [
   },
 ];
 
-<Footer>
-      <Link href="https://api-harilibur.vercel.app/" title="Link to website">
-        Sumber data
-      </Link>
-      <Link href="https://national-day.vercel.app" title="Github repository">
-        Kontribusi
-      </Link>
-      <Link href="https://instagram.com/itspapoy" title="Github repository">
-        Credit
-      </Link>
-    </Footer>
-
 const longest = jadwal
   .map(({ mapel }) => mapel.length)
   .sort((a, b) => b - a)[0];
