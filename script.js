@@ -1,4 +1,4 @@
-let text = ["1. Menggunakan Masker", "2. Mencuci Tangan", "3. Menjaga Jarak", "4. Menjauhi kerumunan", "5. Membatasi mobilisasi"]
+let text = ["1. Mencuci Tangan", "2. Menggunakan masker", "3. Menjaga Jarak", "4. Menjauhi kerumunan", "5. Mengurangi mobilisasi"]
 
 i = 0
 function berubah() {
