@@ -1,33 +1,33 @@
 const jadwal = [
   {
     hari: "Senin",
-    mapel: ["MTK", "PJOK", "PABP", ""],
+    mapel: ["B.SUNDA", "B.INDO", "PPKN", "B.INGGRIS"],
   },
   {
     hari: "Selasa",
     mapel: [
-      "PAZW",
-      "EKFT",
-      "",
+      "PKK",
+      "PJOK",
+      "PPKT",
       "",
     ],
   },
   {
     hari: "Rabu",
-    mapel: ["PKK", "BK", "PPKT", ""],
+    mapel: ["MTK", "EKFT", "", ""],
   },
   {
     hari: "Kamis",
     mapel: [
-      "PKK",
-      "PPKN",
-      "EKFT",
-      "B.INDO",
+      "PAZW",
+      "BK",
+      "",
+      "",
     ],
   },
   {
     hari: "Jum'at",
-    mapel: ["B.INGGRIS", "PPKT", "SUNDA", "PAZW"],
+    mapel: ["PKK", "PABD", "", ""],
   },
   {
     hari: "Sabtu",
